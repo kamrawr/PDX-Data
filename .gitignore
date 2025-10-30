@@ -7,6 +7,9 @@ raw_downloads/
 downloads/
 subsets/
 
+# Archive
+archive/
+
 # Python
 __pycache__/
 *.py[cod]
