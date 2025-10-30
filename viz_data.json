@@ -1,0 +1,644 @@
+{
+  "metadata": {
+    "total_properties": 789024,
+    "total_market_value": 715427244010,
+    "median_value": 510460,
+    "neighborhoods": 116,
+    "analysis_date": "2025-10-30"
+  },
+  "top_neighborhoods": [
+    {
+      "neighborhood": "MULT CO RIVERDALE AREA",
+      "value": 1932085,
+      "count": 1196
+    },
+    {
+      "neighborhood": "ARLINGTON HEIGHTS",
+      "value": 1105370,
+      "count": 317
+    },
+    {
+      "neighborhood": "SOUTHWEST HILLS",
+      "value": 1054340,
+      "count": 2453
+    },
+    {
+      "neighborhood": "FOREST PARK",
+      "value": 1015190,
+      "count": 1174
+    },
+    {
+      "neighborhood": "IRVINGTON",
+      "value": 918910,
+      "count": 7617
+    },
+    {
+      "neighborhood": "NORTHWEST HEIGHTS",
+      "value": 915245,
+      "count": 2082
+    },
+    {
+      "neighborhood": "ALAMEDA",
+      "value": 874390,
+      "count": 1716
+    },
+    {
+      "neighborhood": "LAURELHURST",
+      "value": 857270,
+      "count": 1913
+    },
+    {
+      "neighborhood": "GRANT PARK",
+      "value": 837460,
+      "count": 1538
+    },
+    {
+      "neighborhood": "NORTHWEST DISTRICT",
+      "value": 834760,
+      "count": 14079
+    },
+    {
+      "neighborhood": "BUCKMAN",
+      "value": 817670,
+      "count": 17225
+    },
+    {
+      "neighborhood": "ARNOLD CREEK",
+      "value": 804780,
+      "count": 1173
+    },
+    {
+      "neighborhood": "BRIDLEMILE",
+      "value": 799190,
+      "count": 1707
+    },
+    {
+      "neighborhood": "MARSHALL PARK",
+      "value": 759880,
+      "count": 637
+    },
+    {
+      "neighborhood": "HOSFORD-ABERNETHY",
+      "value": 754890,
+      "count": 18080
+    }
+  ],
+  "bottom_neighborhoods": [
+    {
+      "neighborhood": "POWELLHURST-GILBERT",
+      "value": 423550,
+      "count": 53460
+    },
+    {
+      "neighborhood": "LENTS",
+      "value": 422760,
+      "count": 23940
+    },
+    {
+      "neighborhood": "CENTENNIAL",
+      "value": 417180,
+      "count": 103191
+    },
+    {
+      "neighborhood": "MILL PARK",
+      "value": 411290,
+      "count": 2489
+    },
+    {
+      "neighborhood": "FAR SOUTHWEST",
+      "value": 406835,
+      "count": 3052
+    },
+    {
+      "neighborhood": "ROCKWOOD",
+      "value": 406835,
+      "count": 6104
+    },
+    {
+      "neighborhood": "SUMNER",
+      "value": 396935,
+      "count": 974
+    },
+    {
+      "neighborhood": "WILSONVILLE",
+      "value": 374590,
+      "count": 463
+    },
+    {
+      "neighborhood": "WOOD VILLAGE",
+      "value": 366985,
+      "count": 1396
+    },
+    {
+      "neighborhood": "PEARL DISTRICT",
+      "value": 363210,
+      "count": 41109
+    },
+    {
+      "neighborhood": "BRIDGETON",
+      "value": 355550,
+      "count": 557
+    },
+    {
+      "neighborhood": "GOOSE HOLLOW",
+      "value": 295210,
+      "count": 1651
+    },
+    {
+      "neighborhood": "SUNDERLAND",
+      "value": 221405,
+      "count": 412
+    },
+    {
+      "neighborhood": "HAYDEN ISLAND",
+      "value": 217670,
+      "count": 3626
+    },
+    {
+      "neighborhood": "OLD TOWN",
+      "value": 213210,
+      "count": 1586
+    }
+  ],
+  "affordability_tiers": [
+    {
+      "tier": "<300K",
+      "count": 67493,
+      "percentage": 8.6
+    },
+    {
+      "tier": "300-500K",
+      "count": 301277,
+      "percentage": 38.2
+    },
+    {
+      "tier": "500-750K",
+      "count": 250487,
+      "percentage": 31.7
+    },
+    {
+      "tier": "750K-1M",
+      "count": 83939,
+      "percentage": 10.6
+    },
+    {
+      "tier": ">1M",
+      "count": 76893,
+      "percentage": 9.7
+    }
+  ],
+  "building_decades": [
+    {
+      "decade": 1900,
+      "count": 41882,
+      "median_value": 637265
+    },
+    {
+      "decade": 1910,
+      "count": 47617,
+      "median_value": 595620
+    },
+    {
+      "decade": 1920,
+      "count": 83579,
+      "median_value": 598790
+    },
+    {
+      "decade": 1930,
+      "count": 19224,
+      "median_value": 603140
+    },
+    {
+      "decade": 1940,
+      "count": 67276,
+      "median_value": 501910
+    },
+    {
+      "decade": 1950,
+      "count": 117626,
+      "median_value": 462070
+    },
+    {
+      "decade": 1960,
+      "count": 87225,
+      "median_value": 456810
+    },
+    {
+      "decade": 1970,
+      "count": 73609,
+      "median_value": 478450
+    },
+    {
+      "decade": 1980,
+      "count": 36846,
+      "median_value": 489680
+    },
+    {
+      "decade": 1990,
+      "count": 55974,
+      "median_value": 478280
+    },
+    {
+      "decade": 2000,
+      "count": 92895,
+      "median_value": 436130
+    },
+    {
+      "decade": 2010,
+      "count": 36836,
+      "median_value": 711090
+    },
+    {
+      "decade": 2020,
+      "count": 14602,
+      "median_value": 730900
+    },
+    {
+      "decade": 9990,
+      "count": 1507,
+      "median_value": 103530
+    }
+  ],
+  "ownership_breakdown": [
+    {
+      "type": "Corporate/Institutional",
+      "count": 103113,
+      "total_value": 308307998000,
+      "median_value": 774060
+    },
+    {
+      "type": "Individual/Family",
+      "count": 685911,
+      "total_value": 407119246010,
+      "median_value": 495820
+    }
+  ],
+  "displacement_risk": [
+    {
+      "neighborhood": "SUMNER",
+      "risk_score": 81.4,
+      "median_value": 396935,
+      "building_age": 79,
+      "variance": 3.15
+    },
+    {
+      "neighborhood": "PEARL DISTRICT",
+      "risk_score": 78.1,
+      "median_value": 363210,
+      "building_age": 24,
+      "variance": 4.79
+    },
+    {
+      "neighborhood": "ST. JOHNS",
+      "risk_score": 74.7,
+      "median_value": 463205,
+      "building_age": 69,
+      "variance": 4.68
+    },
+    {
+      "neighborhood": "OVERLOOK",
+      "risk_score": 72.4,
+      "median_value": 611580,
+      "building_age": 92,
+      "variance": 4.54
+    },
+    {
+      "neighborhood": "KENTON",
+      "risk_score": 69.8,
+      "median_value": 497020,
+      "building_age": 74,
+      "variance": 3.07
+    },
+    {
+      "neighborhood": "BOISE",
+      "risk_score": 67.5,
+      "median_value": 643450,
+      "building_age": 100,
+      "variance": 3.84
+    },
+    {
+      "neighborhood": "GOOSE HOLLOW",
+      "risk_score": 65.8,
+      "median_value": 295210,
+      "building_age": 43,
+      "variance": 3.14
+    },
+    {
+      "neighborhood": "HAYDEN ISLAND",
+      "risk_score": 63.9,
+      "median_value": 217670,
+      "building_age": 47,
+      "variance": 5.18
+    },
+    {
+      "neighborhood": "NORTH CENTRAL",
+      "risk_score": 62.6,
+      "median_value": 457140,
+      "building_age": 52,
+      "variance": 3.91
+    },
+    {
+      "neighborhood": "CATHEDRAL PARK",
+      "risk_score": 62.4,
+      "median_value": 493850,
+      "building_age": 61,
+      "variance": 3.32
+    },
+    {
+      "neighborhood": "HAZELWOOD",
+      "risk_score": 62.3,
+      "median_value": 440720,
+      "building_age": 65,
+      "variance": 2.81
+    },
+    {
+      "neighborhood": "ARBOR LODGE",
+      "risk_score": 61.7,
+      "median_value": 584555,
+      "building_age": 90,
+      "variance": 1.53
+    },
+    {
+      "neighborhood": "OLD TOWN",
+      "risk_score": 61.1,
+      "median_value": 213210,
+      "building_age": 43,
+      "variance": 2.78
+    },
+    {
+      "neighborhood": "SABIN",
+      "risk_score": 61.1,
+      "median_value": 704535,
+      "building_age": 101,
+      "variance": 1.84
+    },
+    {
+      "neighborhood": "MADISON SOUTH",
+      "risk_score": 60.3,
+      "median_value": 462740,
+      "building_age": 73,
+      "variance": 1.95
+    },
+    {
+      "neighborhood": "WOODLAWN",
+      "risk_score": 60.2,
+      "median_value": 545080,
+      "building_age": 76,
+      "variance": 1.49
+    },
+    {
+      "neighborhood": "LINNTON",
+      "risk_score": 60.1,
+      "median_value": 423855,
+      "building_age": 84,
+      "variance": 2.22
+    },
+    {
+      "neighborhood": "BROOKLYN",
+      "risk_score": 60.1,
+      "median_value": 653820,
+      "building_age": 96,
+      "variance": 2.31
+    },
+    {
+      "neighborhood": "ELIOT",
+      "risk_score": 60.1,
+      "median_value": 663470,
+      "building_age": 103,
+      "variance": 3.07
+    },
+    {
+      "neighborhood": "PARKROSE",
+      "risk_score": 60.0,
+      "median_value": 463645,
+      "building_age": 73,
+      "variance": 2.38
+    }
+  ],
+  "value_concentration": [
+    {
+      "neighborhood": "PEARL DISTRICT",
+      "total_value": 60288609650,
+      "percentage": 8.4
+    },
+    {
+      "neighborhood": "SOUTH PORTLAND",
+      "total_value": 57325615500,
+      "percentage": 8.0
+    },
+    {
+      "neighborhood": "CENTENNIAL",
+      "total_value": 52356357570,
+      "percentage": 7.3
+    },
+    {
+      "neighborhood": "SELLWOOD-MORELAND",
+      "total_value": 36807269450,
+      "percentage": 5.1
+    },
+    {
+      "neighborhood": "HAZELWOOD",
+      "total_value": 36749041920,
+      "percentage": 5.1
+    },
+    {
+      "neighborhood": "BUCKMAN",
+      "total_value": 34873860750,
+      "percentage": 4.9
+    },
+    {
+      "neighborhood": "POWELLHURST-GILBERT",
+      "total_value": 32949483810,
+      "percentage": 4.6
+    },
+    {
+      "neighborhood": "NORTHWEST DISTRICT",
+      "total_value": 27063195540,
+      "percentage": 3.8
+    }
+  ],
+  "ultra_luxury": [
+    {
+      "neighborhood": "BUCKMAN",
+      "count": 2725,
+      "max_value": 68145700,
+      "median_value": 4134150
+    },
+    {
+      "neighborhood": "PEARL DISTRICT",
+      "count": 2547,
+      "max_value": 112600000,
+      "median_value": 7424410
+    },
+    {
+      "neighborhood": "NORTHWEST DISTRICT",
+      "count": 2076,
+      "max_value": 64444150,
+      "median_value": 5013490
+    },
+    {
+      "neighborhood": "SOUTH PORTLAND",
+      "count": 1980,
+      "max_value": 136517240,
+      "median_value": 7080695
+    },
+    {
+      "neighborhood": "HAZELWOOD",
+      "count": 1792,
+      "max_value": 44683130,
+      "median_value": 3861445
+    },
+    {
+      "neighborhood": "CENTENNIAL",
+      "count": 1727,
+      "max_value": 25099470,
+      "median_value": 4832080
+    },
+    {
+      "neighborhood": "SELLWOOD-MORELAND",
+      "count": 1680,
+      "max_value": 60634610,
+      "median_value": 3464080
+    },
+    {
+      "neighborhood": "POWELLHURST-GILBERT",
+      "count": 1414,
+      "max_value": 36400570,
+      "median_value": 2980760
+    },
+    {
+      "neighborhood": "HOSFORD-ABERNETHY",
+      "count": 1325,
+      "max_value": 15764920,
+      "median_value": 3149070
+    },
+    {
+      "neighborhood": "OVERLOOK",
+      "count": 944,
+      "max_value": 152074530,
+      "median_value": 4956325
+    },
+    {
+      "neighborhood": "ST. JOHNS",
+      "count": 908,
+      "max_value": 115506490,
+      "median_value": 7577610
+    },
+    {
+      "neighborhood": "CULLY",
+      "count": 780,
+      "max_value": 24796430,
+      "median_value": 3895920
+    },
+    {
+      "neighborhood": "KERNS",
+      "count": 620,
+      "max_value": 44523660,
+      "median_value": 4868940
+    },
+    {
+      "neighborhood": "MULT CO RIVERDALE AREA",
+      "count": 554,
+      "max_value": 9845800,
+      "median_value": 2577690
+    },
+    {
+      "neighborhood": "MONTAVILLA",
+      "count": 430,
+      "max_value": 10066280,
+      "median_value": 2594295
+    }
+  ],
+  "corporate_concentration": [
+    {
+      "neighborhood": "HOLLYWOOD",
+      "corporate_pct": 43.3,
+      "corporate_count": 412,
+      "total_count": 952
+    },
+    {
+      "neighborhood": "SUNDERLAND",
+      "corporate_pct": 37.4,
+      "corporate_count": 154,
+      "total_count": 412
+    },
+    {
+      "neighborhood": "BUCKMAN",
+      "corporate_pct": 37.2,
+      "corporate_count": 6400,
+      "total_count": 17225
+    },
+    {
+      "neighborhood": "KERNS",
+      "corporate_pct": 35.2,
+      "corporate_count": 1492,
+      "total_count": 4236
+    },
+    {
+      "neighborhood": "CENTRAL CITY",
+      "corporate_pct": 31.5,
+      "corporate_count": 297,
+      "total_count": 943
+    },
+    {
+      "neighborhood": "ELIOT",
+      "corporate_pct": 29.6,
+      "corporate_count": 490,
+      "total_count": 1655
+    },
+    {
+      "neighborhood": "NORTHWEST DISTRICT",
+      "corporate_pct": 29.1,
+      "corporate_count": 4101,
+      "total_count": 14079
+    },
+    {
+      "neighborhood": "OLD TOWN",
+      "corporate_pct": 26.2,
+      "corporate_count": 416,
+      "total_count": 1586
+    },
+    {
+      "neighborhood": "SOUTH PORTLAND",
+      "corporate_pct": 24.8,
+      "corporate_count": 5580,
+      "total_count": 22524
+    },
+    {
+      "neighborhood": "BOISE",
+      "corporate_pct": 24.5,
+      "corporate_count": 379,
+      "total_count": 1547
+    },
+    {
+      "neighborhood": "BROOKLYN",
+      "corporate_pct": 21.6,
+      "corporate_count": 383,
+      "total_count": 1777
+    },
+    {
+      "neighborhood": "HOMESTEAD",
+      "corporate_pct": 20.8,
+      "corporate_count": 150,
+      "total_count": 721
+    },
+    {
+      "neighborhood": "SULLIVAN'S GULCH",
+      "corporate_pct": 20.7,
+      "corporate_count": 221,
+      "total_count": 1069
+    },
+    {
+      "neighborhood": "HOSFORD-ABERNETHY",
+      "corporate_pct": 20.4,
+      "corporate_count": 3685,
+      "total_count": 18080
+    },
+    {
+      "neighborhood": "LINNTON",
+      "corporate_pct": 20.2,
+      "corporate_count": 106,
+      "total_count": 526
+    }
+  ]
+}

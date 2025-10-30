@@ -1,0 +1,8 @@
+Portland Property Market - Deep Analysis Summary
+================================================================================
+
+total_properties: 789024
+total_market_value: 715427244010.0
+median_value: 510460.0
+neighborhoods_analyzed: 116
+date_analyzed: 2025-10-30 01:30

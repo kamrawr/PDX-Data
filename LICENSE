@@ -1,0 +1,40 @@
+MIT License
+
+Copyright (c) 2024 Community Consulting Partners LLC
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+DATA LICENSE NOTICE:
+
+The property assessment data contained in this repository is sourced from 
+PortlandMaps.com (https://www.portlandmaps.com), which aggregates public records 
+from Multnomah, Clackamas, and Washington County Assessors' offices.
+
+This data is public domain information that has been collected, processed, and 
+redistributed for research and analytical purposes. Users of this data should:
+
+1. Verify data accuracy for critical applications
+2. Respect privacy considerations when using owner information
+3. Acknowledge the original data source (PortlandMaps.com and county assessors)
+4. Understand that property values are assessor estimates, not market prices
+
+The data provider (Community Consulting Partners LLC) makes no warranties about 
+the completeness, accuracy, or fitness for any particular purpose of the data.

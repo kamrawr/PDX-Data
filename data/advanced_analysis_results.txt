@@ -1,0 +1,272 @@
+🔥 ADVANCED ANALYSIS: Portland's Hidden Economic Patterns
+==========================================================================================
+
+Analyzing 789,024 properties
+
+==========================================================================================
+🚨 INSIGHT #11: GENTRIFICATION DISPLACEMENT RISK INDEX
+==========================================================================================
+
+🔴 TOP 20 NEIGHBORHOODS AT HIGHEST DISPLACEMENT RISK:
+
+ 1. SUMNER                                        Risk:  81.4 🔴🔴🔴
+     Median Value: $ 396,935  |  Avg Age: 79yr  |  Variance: 3.15
+ 2. PEARL DISTRICT                                Risk:  78.1 🔴🔴
+     Median Value: $ 363,210  |  Avg Age: 24yr  |  Variance: 4.79
+ 3. ST. JOHNS                                     Risk:  74.7 🔴🔴
+     Median Value: $ 463,205  |  Avg Age: 69yr  |  Variance: 4.68
+ 4. OVERLOOK                                      Risk:  72.4 🔴🔴
+     Median Value: $ 611,580  |  Avg Age: 92yr  |  Variance: 4.54
+ 5. KENTON                                        Risk:  69.8 🔴
+     Median Value: $ 497,020  |  Avg Age: 74yr  |  Variance: 3.07
+ 6. BOISE                                         Risk:  67.5 🔴
+     Median Value: $ 643,450  |  Avg Age: 100yr  |  Variance: 3.84
+ 7. GOOSE HOLLOW                                  Risk:  65.8 🔴
+     Median Value: $ 295,210  |  Avg Age: 43yr  |  Variance: 3.14
+ 8. HAYDEN ISLAND                                 Risk:  63.9 🔴
+     Median Value: $ 217,670  |  Avg Age: 47yr  |  Variance: 5.18
+ 9. NORTH CENTRAL                                 Risk:  62.5 🔴
+     Median Value: $ 457,140  |  Avg Age: 52yr  |  Variance: 3.91
+10. CATHEDRAL PARK                                Risk:  62.4 🔴
+     Median Value: $ 493,850  |  Avg Age: 61yr  |  Variance: 3.32
+11. HAZELWOOD                                     Risk:  62.3 🔴
+     Median Value: $ 440,720  |  Avg Age: 65yr  |  Variance: 2.81
+12. ARBOR LODGE                                   Risk:  61.7 🔴
+     Median Value: $ 584,555  |  Avg Age: 90yr  |  Variance: 1.53
+13. OLD TOWN                                      Risk:  61.1 🔴
+     Median Value: $ 213,210  |  Avg Age: 43yr  |  Variance: 2.78
+14. SABIN                                         Risk:  61.1 🔴
+     Median Value: $ 704,535  |  Avg Age: 101yr  |  Variance: 1.84
+15. MADISON SOUTH                                 Risk:  60.3 🔴
+     Median Value: $ 462,740  |  Avg Age: 73yr  |  Variance: 1.95
+16. WOODLAWN                                      Risk:  60.2 🔴
+     Median Value: $ 545,080  |  Avg Age: 76yr  |  Variance: 1.49
+17. LINNTON                                       Risk:  60.1 🔴
+     Median Value: $ 423,855  |  Avg Age: 84yr  |  Variance: 2.22
+18. BROOKLYN                                      Risk:  60.1 🔴
+     Median Value: $ 653,820  |  Avg Age: 96yr  |  Variance: 2.31
+19. ELIOT                                         Risk:  60.1 🔴
+     Median Value: $ 663,470  |  Avg Age: 103yr  |  Variance: 3.07
+20. PARKROSE                                      Risk:  60.0 🔴
+     Median Value: $ 463,645  |  Avg Age: 73yr  |  Variance: 2.38
+
+
+==========================================================================================
+💸 INSIGHT #12: THE AFFORDABILITY CRISIS - WHO'S BEING PRICED OUT?
+==========================================================================================
+
+Housing Stock by Affordability Tier:
+
+Price Range  Count        % Stock    Median SqFt  Avg Age
+---------------------------------------------------------------------------
+<300K            67,493     8.6%  ████                         730    44yr
+300-500K        301,277    38.2%  ███████████████████        1,242    64yr
+500-750K        250,487    31.7%  ███████████████            1,804    73yr
+750K-1M          83,939    10.6%  █████                      2,563    75yr
+>1M              76,893     9.7%  ████                       5,514    54yr
+
+💔 Only 190,086 properties (24.1%) under $400K
+   Average size: 988 sqft
+   Average age: 58 years
+
+
+==========================================================================================
+🏦 INSIGHT #13: INSTITUTIONAL LANDLORD TAKEOVER ANALYSIS
+==========================================================================================
+
+Ownership Structure Analysis:
+
+Owner Type           Properties      % of Total   Total Value          Median Value
+------------------------------------------------------------------------------------------
+Individual/Family        684,596.0       86.8%  $          402.29B  $     495,600
+Corporate/Institutional     104,428.0       13.2%  $          313.14B  $     778,240
+
+🏢 TOP 15 NEIGHBORHOODS WITH HIGHEST CORPORATE OWNERSHIP:
+
+ 1. HOLLYWOOD                                           43.7% corporate (416 of 952)
+ 2. SUNDERLAND                                          38.1% corporate (157 of 412)
+ 3. BUCKMAN                                             37.6% corporate (6,470 of 17,225)
+ 4. KERNS                                               35.5% corporate (1,504 of 4,236)
+ 5. CENTRAL CITY                                        31.9% corporate (301 of 943)
+ 6. ELIOT                                               30.3% corporate (501 of 1,655)
+ 7. NORTHWEST DISTRICT                                  29.4% corporate (4,134 of 14,079)
+ 8. OLD TOWN                                            27.0% corporate (428 of 1,586)
+ 9. SOUTH PORTLAND                                      25.3% corporate (5,688 of 22,524)
+10. BOISE                                               24.8% corporate (383 of 1,547)
+11. BROOKLYN                                            22.1% corporate (392 of 1,777)
+12. SULLIVAN'S GULCH                                    21.0% corporate (224 of 1,069)
+13. HOMESTEAD                                           20.8% corporate (150 of 721)
+14. HOSFORD-ABERNETHY                                   20.6% corporate (3,730 of 18,080)
+15. LINNTON                                             20.5% corporate (108 of 526)
+
+
+==========================================================================================
+📈 INSIGHT #14: SALES VELOCITY & MARKET MOMENTUM
+==========================================================================================
+
+🔥 TOP 15 HOTTEST MARKETS (Highest Recent Turnover 2020-2025):
+
+ 1. BRIDGETON                                           36.1% turnover (201 sales)
+ 2. HAYDEN ISLAND                                       34.0% turnover (1,234 sales)
+ 3. GOOSE HOLLOW                                        33.1% turnover (546 sales)
+ 4. HOLLYWOOD                                           31.5% turnover (300 sales)
+ 5. PEARL DISTRICT                                      30.0% turnover (12,342 sales)
+ 6. MOUNTAIN PARK                                       29.7% turnover (796 sales)
+ 7. REDLAND - FISCHERS MILL - VIOLA                     29.2% turnover (100 sales)
+ 8. NORTHWEST HEIGHTS                                   29.0% turnover (603 sales)
+ 9. WILSONVILLE                                         28.7% turnover (133 sales)
+10. GRESHAM BUTTE                                       27.7% turnover (594 sales)
+11. LINNTON                                             27.6% turnover (145 sales)
+12. CATHEDRAL PARK                                      27.5% turnover (444 sales)
+13. WEST PORTLAND PARK                                  27.5% turnover (344 sales)
+14. WILKES                                              27.4% turnover (980 sales)
+15. SOUTHWEST HILLS                                     27.3% turnover (670 sales)
+
+❄️  BOTTOM 10 COLDEST MARKETS (Lowest Turnover - Stable/Stagnant?):
+
+ 1. ARDENWALD-JOHNSON CREEK                             14.1% turnover (58 sales)
+ 2. MULT CO W SANDY RIVER AREA                          17.0% turnover (234 sales)
+ 3. KERNS                                               17.2% turnover (730 sales)
+ 4. MULT CO NE COMMUNITY NEMCCA AREA                    18.0% turnover (276 sales)
+ 5. MULT CO E SANDY RIVER AREA                          18.0% turnover (129 sales)
+ 6. BUCKMAN                                             18.9% turnover (3,260 sales)
+ 7. PALISADES                                           19.1% turnover (294 sales)
+ 8. ALAMEDA                                             19.2% turnover (329 sales)
+ 9. MARSHALL PARK                                       19.3% turnover (123 sales)
+10. BEAVER CREEK                                        19.5% turnover (133 sales)
+
+
+==========================================================================================
+🎯 INSIGHT #15: PRICE APPRECIATION PATTERNS (2020-2025)
+==========================================================================================
+
+Year-over-Year Price Trends:
+
+Year     Sales      Median Price    YoY Change   $/SqFt     Change
+--------------------------------------------------------------------------------
+2020     30,645     $410,000                ---  $327          ---
+2021     43,047     $476,000       📈  +16.1%    $331       +1.0%
+2022     36,331     $495,000       📈   +4.0%    $327       -1.1%
+2023     26,498     $470,500       📉   -4.9%    $326       -0.3%
+2024     28,878     $495,000       📈   +5.2%    $330       +1.2%
+2025     23,420     $488,000       📉   -1.4%    $333       +1.0%
+
+
+📊 TOP 10 NEIGHBORHOODS WITH HIGHEST APPRECIATION (2020-21 vs 2023-25):
+
+ 1. HOLLYWOOD                                     +5155.5%  ($ 685,000 → $36,000,000)
+ 2. MC UNCLAIMED #11                              +2028.4%  ($ 110,413 → $2,350,000)
+ 3. SUNDERLAND                                    +343.4%  ($ 265,000 → $1,175,000)
+ 4. LLOYD                                         +247.6%  ($ 315,000 → $1,095,000)
+ 5. PORTLAND PDX AIRPORT AREA                     +118.1%  ($17,100,000 → $37,300,000)
+ 6. MULT CO ENGLEWOOD AREA                         +42.9%  ($2,695,000 → $3,850,000)
+ 7. MC UNCLAIMED #13                               +31.9%  ($1,317,000 → $1,737,000)
+ 8. MOUNTAIN PARK                                  +31.6%  ($ 285,000 → $ 375,000)
+ 9. MC UNCLAIMED #5                                +25.4%  ($ 710,000 → $ 890,000)
+10. ARLINGTON HEIGHTS                              +25.1%  ($ 955,000 → $1,194,500)
+
+
+==========================================================================================
+🏗️  INSIGHT #16: REDEVELOPMENT PRESSURE ZONES
+==========================================================================================
+
+🚧 TOP 15 NEIGHBORHOODS UNDER REDEVELOPMENT PRESSURE:
+
+(Old buildings + High land value + Small lots = Teardown risk)
+
+ 1. SABIN                                         Score:  85.8
+     Age: 101yr  |  $396/sqft  |  1,788 sqft median
+ 2. SUNNYSIDE                                     Score:  85.8
+     Age: 114yr  |  $381/sqft  |  1,804 sqft median
+ 3. KING                                          Score:  82.1
+     Age: 103yr  |  $358/sqft  |  1,698 sqft median
+ 4. SELLWOOD-MORELAND                             Score:  81.9
+     Age: 95yr  |  $390/sqft  |  1,714 sqft median
+ 5. VERNON                                        Score:  81.6
+     Age: 99yr  |  $374/sqft  |  1,735 sqft median
+ 6. ROSEWAY                                       Score:  80.8
+     Age: 95yr  |  $361/sqft  |  1,504 sqft median
+ 7. GRANT PARK                                    Score:  78.8
+     Age: 100yr  |  $401/sqft  |  2,185 sqft median
+ 8. ARBOR LODGE                                   Score:  78.6
+     Age: 90yr  |  $368/sqft  |  1,617 sqft median
+ 9. BEAUMONT-WILSHIRE                             Score:  78.3
+     Age: 96yr  |  $395/sqft  |  1,931 sqft median
+10. SOUTH TABOR                                   Score:  77.9
+     Age: 76yr  |  $369/sqft  |  1,530 sqft median
+11. ROSE CITY PARK                                Score:  77.6
+     Age: 100yr  |  $361/sqft  |  1,844 sqft median
+12. ALAMEDA                                       Score:  76.7
+     Age: 100yr  |  $395/sqft  |  2,302 sqft median
+13. SUMNER                                        Score:  75.9
+     Age: 79yr  |  $348/sqft  |  1,124 sqft median
+14. WOODLAWN                                      Score:  75.7
+     Age: 76yr  |  $361/sqft  |  1,482 sqft median
+15. LAURELHURST                                   Score:  75.5
+     Age: 102yr  |  $374/sqft  |  2,342 sqft median
+
+
+==========================================================================================
+💰 INSIGHT #17: THE MILLIONAIRE'S MAP - ULTRA-WEALTHY CONCENTRATION
+==========================================================================================
+
+Found 30,344 properties worth $2M+ (top 3.85%)
+
+🏰 TOP 15 ULTRA-LUXURY NEIGHBORHOODS ($2M+ properties):
+
+ 1. BUCKMAN                                       2725 mansions  (Max: $ 68.1M)
+ 2. PEARL DISTRICT                                2547 mansions  (Max: $112.6M)
+ 3. NORTHWEST DISTRICT                            2076 mansions  (Max: $ 64.4M)
+ 4. SOUTH PORTLAND                                1980 mansions  (Max: $136.5M)
+ 5. HAZELWOOD                                     1792 mansions  (Max: $ 44.7M)
+ 6. CENTENNIAL                                    1727 mansions  (Max: $ 25.1M)
+ 7. SELLWOOD-MORELAND                             1680 mansions  (Max: $ 60.6M)
+ 8. POWELLHURST-GILBERT                           1414 mansions  (Max: $ 36.4M)
+ 9. HOSFORD-ABERNETHY                             1325 mansions  (Max: $ 15.8M)
+10. OVERLOOK                                       944 mansions  (Max: $152.1M)
+11. ST. JOHNS                                      908 mansions  (Max: $115.5M)
+12. CULLY                                          780 mansions  (Max: $ 24.8M)
+13. KERNS                                          620 mansions  (Max: $ 44.5M)
+14. MULT CO RIVERDALE AREA                         554 mansions  (Max: $  9.8M)
+15. MONTAVILLA                                     430 mansions  (Max: $ 10.1M)
+
+
+==========================================================================================
+📉 INSIGHT #18: VALUE DECLINE ZONES - WHERE THE MARKET IS COOLING
+==========================================================================================
+
+📉 TOP 10 MARKETS WITH PRICE DECLINES (2020-22 vs 2023-25):
+
+ 1. WILSONVILLE                                    -38.7%  ($ 298,500 → $ 183,000)
+ 2. SULLIVAN'S GULCH                               -37.9%  ($ 515,500 → $ 320,000)
+ 3. NORTHWEST DISTRICT                             -15.2%  ($ 705,000 → $ 598,000)
+ 4. MULT CO E SANDY RIVER AREA                      -9.4%  ($ 635,000 → $ 575,000)
+ 5. VERNON                                          -8.9%  ($ 639,950 → $ 583,000)
+ 6. OLD TOWN                                        -5.6%  ($ 270,000 → $ 255,000)
+ 7. KING                                            -3.0%  ($ 608,000 → $ 590,000)
+ 8. IRVINGTON                                       -2.6%  ($ 872,500 → $ 850,000)
+ 9. REED                                            -2.5%  ($ 631,000 → $ 615,000)
+10. BUCKMAN                                         -2.4%  ($ 799,900 → $ 780,600)
+
+
+==========================================================================================
+🔍 INSIGHT #19: SIZE-TO-VALUE EFFICIENCY OUTLIERS
+==========================================================================================
+Traceback (most recent call last):
+  File "/Users/isaiah/PDX-Data/advanced_analysis.py", line 311, in <module>
+    df['value_per_sqft_zscore'] = stats.zscore(df['price_per_sqft'].dropna())
+    ~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Caskroom/miniconda/base/lib/python3.13/site-packages/pandas/core/frame.py", line 4316, in __setitem__
+    self._set_item(key, value)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "/opt/homebrew/Caskroom/miniconda/base/lib/python3.13/site-packages/pandas/core/frame.py", line 4529, in _set_item
+    value, refs = self._sanitize_column(value)
+                  ~~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "/opt/homebrew/Caskroom/miniconda/base/lib/python3.13/site-packages/pandas/core/frame.py", line 5273, in _sanitize_column
+    com.require_length_match(value, self.index)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Caskroom/miniconda/base/lib/python3.13/site-packages/pandas/core/common.py", line 573, in require_length_match
+    raise ValueError(
+    ...<4 lines>...
+    )
+ValueError: Length of values (788687) does not match length of index (789024)

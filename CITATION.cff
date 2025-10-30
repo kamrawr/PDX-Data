@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "PDX-Data: Portland Metro Property Assessment Dataset"
+version: 1.0
+date-released: 2024-10-30
+authors:
+  - family-names: "Kamrar"
+    given-names: "Isaiah"
+    affiliation: "Community Consulting Partners LLC"
+repository-code: "https://github.com/CommunityConsultingPartners/PDX-Data"
+url: "https://communityconsultingpartners.github.io/PDX-Data"
+license: MIT
+keywords:
+  - property assessment
+  - real estate data
+  - Portland
+  - Oregon
+  - assessor data
+  - public records
+abstract: >
+  A comprehensive dataset of 1.7 million property assessment records from the
+  Portland Metro area (Multnomah, Clackamas, and Washington counties). Data was
+  collected via automated web scraping from PortlandMaps.com and includes property
+  characteristics, ownership, valuation, and sales information across 217
+  neighborhoods. The dataset supports market research, urban planning analysis,
+  and property valuation studies.
