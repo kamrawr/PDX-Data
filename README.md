@@ -27,6 +27,8 @@ This repository contains a complete analysis of Portland-area property assessor 
 
 Full interactive analysis with D3.js visualizations, advocacy messaging, and data exploration tools.
 
+_Note: For best experience, navigate from the [Research Lab homepage](https://kamrawr.github.io/research-synthesis-lab/) or use the direct link above and refresh if charts don't load immediately._
+
 ---
 
 ## 📁 Quick Links
