@@ -31,9 +31,10 @@ Full interactive analysis with D3.js visualizations, advocacy messaging, and dat
 
 ## 📁 Quick Links
 
-- **Executive Summary**: [EXECUTIVE_SUMMARY.md](EXECUTIVE_SUMMARY.md) - Complete 10-page report
+- **Documentation**: [docs/](docs/) - Complete methodology, data dictionary, and guides
 - **Research Lab**: [https://kamrawr.github.io/research-synthesis-lab/](https://kamrawr.github.io/research-synthesis-lab/)
-- **Data Files**: See `subsets/` folder for quality-filtered datasets
+- **Data Files**: See [data/README.md](data/README.md) for access information
+- **Analysis Examples**: [examples/](examples/) - Python scripts for data analysis
 
 ---
 
@@ -44,10 +45,14 @@ Full interactive analysis with D3.js visualizations, advocacy messaging, and dat
 pip install -r requirements.txt
 
 # Run scraper (takes several hours)
-python portlandmaps_scrape.py
+python tools/portlandmaps_scrape.py
 
-# Generate analysis
-python deep_analysis.py
+# Generate quality subsets
+python tools/create_quality_subsets.py
+
+# Run analysis examples
+python examples/basic_analysis.py
+python examples/deep_analysis.py
 ```
 
 ---
